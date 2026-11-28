@@ -1,3 +1,10 @@
+<!-- PAI-SG-LINKS:BEGIN -->
+## Project Links
+
+- [Project Portal](https://statera-workshop.github.io/#repo-lm_dec_attnfree_gmlp)
+- [Statera Workshop Portal](https://statera-workshop.github.io/)
+<!-- PAI-SG-LINKS:END -->
+
 # LM_Dec_AttnFree_gMLP
 
 gMLP - AttnFree family, decoder-only byte-level language model, standardised in the Statera Working Group Language Model library.
